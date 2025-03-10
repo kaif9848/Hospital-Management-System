@@ -1,2 +1,1 @@
 Hospital Management projects should have all the necessary requirements to full fill, the need to create a java project for the management staff of the hospital. This project should contain the doctor-patient table with all records. for example Doctor name, Timing speciality and availability. In this project, I cover 1. DOCTOR, 2. PATIENT, 3. MEDICAL, 4. LAB, 5. FACILITY, 6. STAFF tables. Now take an example of the Doctor table, I already saved some doctor details, when you select option 1. The doctors new entry 2.doctors list
-![Uploading image.png…]()
